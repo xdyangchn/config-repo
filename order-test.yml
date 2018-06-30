@@ -6,11 +6,8 @@ spring:
     username: root
     password: yxdyxd123456@
     url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
-logging:
-  level:
-    root: info
 env:
-  test3
+  test4
 girl:
   name: lili
-  age: 20
+  age: 19
